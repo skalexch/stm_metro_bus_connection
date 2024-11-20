@@ -1,4 +1,4 @@
-# stm_metro_bus_connection
+# STM Metro Bus transfers
 
 This work attempts to answer the question: "What is the probabiltiy of missing an STM Bus transfer from a metro station?
 
